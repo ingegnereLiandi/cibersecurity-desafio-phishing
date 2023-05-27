@@ -17,6 +17,7 @@
 - URL para clone: http://www.facebook.com
 
 ###
+Resultado
 
 ![alt text](./Cattura.PNG)
 
