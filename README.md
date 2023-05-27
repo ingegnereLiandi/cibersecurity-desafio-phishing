@@ -16,6 +16,4 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
-### Resutados
 
-![Alt text] (./Cattura.PNG "Optional title")
